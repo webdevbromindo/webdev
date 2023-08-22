@@ -1,0 +1,12 @@
+{
+    "name": "willnode/sertifikat-online-master",
+    "authors": [
+        {
+            "name": "Wildan M",
+            "email": "willnode@wellosoft.net"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
